@@ -1,4 +1,4 @@
-# CLI-Client-for-Online-Library
+# CLI Client for Online Library
 
 This repository contains a **C command-line client** for an online library, developed as part of the **Communication Protocols** course in the second year, second semester of my studies at university. The application interacts with an online library server via a **RESTful API** and uses **HTTP requests** for authentication, book management, and session handling.
 
