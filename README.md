@@ -29,7 +29,7 @@ This repository contains a **C command-line client** for an online library, deve
 
 ## 🖥️ Technologies Used  
 
-- **C++** – Main programming language used.  
+- **C** – Main programming language used.  
 - **Sockets (BSD Sockets API)** – Used for network communication.  
 - **HTTP Protocol** – Used to send requests and receive responses from the online library server.  
 - **JSON (Parson Library)** – Used for handling API responses and requests.  
